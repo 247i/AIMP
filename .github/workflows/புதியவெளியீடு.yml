@@ -11,7 +11,7 @@ jobs:
       uses: montudor/action-zip@v1
 
     - name: கட்டு
-      run: zip -qq -r App.zip ஆஇஊஇ
+      run: zip -qq -r App.zip ஆஇஊஇ ஆஇஊஇ_தோல்திருத்தி ஆஇஊஇ_மொழி
       working-directory: .
 
 
